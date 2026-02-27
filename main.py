@@ -37,4 +37,4 @@
 
 # Finalización
 # Cuando se completen todas las operaciones indicadas al inicio:
-# • Mostrar mensaje: "Gracias por usar el cajero automático" 
+# • Mostrar mensaje: "Gracias por usar el cajero automático"
