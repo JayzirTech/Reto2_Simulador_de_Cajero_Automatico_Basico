@@ -68,4 +68,12 @@ Entregable Final
 • Sin errores en ejecución
 • Todas las tareas cerradas en Boards
 """
-#
+
+#import del menú
+
+print("")
+print("¡Hola! Bienvenido a tu cajero de confianza TechBank Riwi")
+print("Por favor, indicanos tu usurio")
+print("")
+
+#Aquí se debería ejecutar el menú
