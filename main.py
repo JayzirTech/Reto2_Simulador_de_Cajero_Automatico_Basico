@@ -68,12 +68,8 @@ Entregable Final
 • Sin errores en ejecución
 • Todas las tareas cerradas en Boards
 """
+from configuracion_inicial import Mensaje_Bienvenida
+from autenticacion import Autenticacion
 
-#import del menú
-
-print("")
-print("¡Hola! Bienvenido a tu cajero de confianza TechBank Riwi")
-print("Por favor, indicanos tu usurio")
-print("")
-
-#Aquí se debería ejecutar el menú
+Mensaje_Bienvenida()
+Autenticacion()
