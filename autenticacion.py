@@ -12,7 +12,9 @@ def Autenticacion():
         Pin=input("Pin: ")
         if(Usuario==UsuarioRegistrado and Pin==PinRegistrado):
             print("Correcto")
+            
         else:
             print("Incorrecto, intente de nuevo")
             FallasDeUsuario+=1
             print(FallasDeUsuario)
+    print("Hecho")
